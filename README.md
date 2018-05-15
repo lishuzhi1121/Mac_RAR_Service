@@ -31,7 +31,7 @@ brew install unrar
 #### 1. rar压缩
 在`Finder`中选中要压缩的文件夹，右键，服务，就会看到有`添加到RAR压缩文件`，选择它就就可以将选中的文件夹压缩为rar压缩包了，如下图：
 
-![rar_press](http://onmw6wg88.bkt.clouddn.com/rar_press.png)
+![rar_press](http://onmw6wg88.bkt.clouddn.com/rar_press_jpg.jpg)
 
 
 #### 2. rar解压缩
