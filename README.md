@@ -1,4 +1,4 @@
-# RAR Service 使用说明
+# Mac RAR Service 使用说明
 
 鉴于Mac OS系统自身并不支持rar压缩/解压缩文件，所以使用Mac的 **“自动操作”（Automator Workflow）** 写了个 **“服务”** ，以便快捷的压缩和解压rar文件，详细使用方式如下：
 
