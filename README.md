@@ -16,7 +16,7 @@ brew install caskroom/cask/rar
 brew install unrar
 ```
 
-**注意⚠️：** 此过程在天朝可能会较长，请 **~~“耐心等待”~~****（用心翻墙）** 谢谢。
+**注意⚠️：** 此过程在天朝可能会较长，请 **~~“耐心等待”~~** **（用心翻墙）** 谢谢。
 
 关于Homebrew，不解释，请不熟悉的小伙伴自行谷歌，或参阅：[Homebrew官网](https://brew.sh/index_zh-cn)
 
